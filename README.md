@@ -30,7 +30,16 @@
 
 ## Lesson 4 Experiment Design
 
-1. Choose subject
-2. Choose population
-3. Size
-4. Duration
+* Choose subject - unit of diversion
+  * Prop: consistency; ethical (user consent); variability (need unit of analysis = unit of diversion)
+* Choose population
+  * Intra vs. Inter-user
+  * larger target population may dilute the significant results
+  * cohort - if need user stability
+* Size
+  * be consevative
+  * SE ~ N^-1/2
+* Duration
+  * how long, when, which traffic (safe/ price/ cost)
+  * learning effect need longer : use pre/post A/A to reduce other effect
+ 
